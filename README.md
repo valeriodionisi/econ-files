@@ -1,5 +1,6 @@
 ## HOW TO CREATE A STABLE URL FOR A .pdf FILE USING GitHub PAGES ##
 
+#### Create a repository ####
 To create a GitHub page URL to link a .pdf file, first create the ground following these steps:
   1. create a GitHub repository, and then go to its section called "“Settings”, and then, on the left border, to “Pages”";
   2. In the section called "Build and deployment":
@@ -7,6 +8,7 @@ To create a GitHub page URL to link a .pdf file, first create the ground followi
      - in _branch_, select the "main (or master)", "/(root)", and click on “save”;
   3. now, wait till the setup is done. You can check the status under _https://<your_username>.github.io/<repository_name>_. After the 404 error is gone, it is online.
 
+#### Create a URL ####
 Then, to create a URL that directly links to a .pdf file, one should: 
   1. go to the repositories by clicking the profile image at top-right, and select "your repositories";
   2. open the desired repository where the file should be stored;
